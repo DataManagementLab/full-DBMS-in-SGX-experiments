@@ -1,0 +1,6 @@
+[submodule "hyrise"]
+	path = hyrise
+	url = git@github.com:DataManagementLab/full-DBMS-in-SGX-Hyrise.git
+[submodule "gramine"]
+	path = gramine
+	url = git@github.com:DataManagementLab/full-DBMS-in-SGX-Gramine.git
