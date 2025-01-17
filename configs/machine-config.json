@@ -1,0 +1,6 @@
+{
+  "run_dir": "/home/alutsch/bin",
+  "hyrise_c_compiler": "clang-18",
+  "hyrise_cpp_compiler": "clang++-18",
+  "hyrise_linker": "mold"
+}
